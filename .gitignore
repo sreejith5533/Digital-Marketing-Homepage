@@ -1,0 +1,20 @@
+# .gitignore
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (if you add npm packages in the future)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+#Ignore environment files
+.env
+
+# Ignore any build output (if you add a build process)
+dist/
+build/
